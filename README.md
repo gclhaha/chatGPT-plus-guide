@@ -8,6 +8,9 @@
 网上有很多教程，这里放一个，大概步骤就是通过虚拟号平台接收短信验证码去注册。
 短信验证码发送 https://sms-activate.org （成本不到5元）
 
+![image](https://user-images.githubusercontent.com/38855722/229071903-df8c3c8f-dcca-4893-9f29-7fd3f1eeb04e.png)
+
+
 参考教程：https://www.awyerwu.com/9273.html
 ## 2.注册一个数字货币账户（OKX）
 前提：不需要科学上网
@@ -17,6 +20,8 @@ https://www.cnouyi.care/cn
 
 - 购买25个USDT（是一种约等价于美元的虚拟货币），用于转给Depay的卡内
 
+![image](https://user-images.githubusercontent.com/38855722/229071583-269f63e6-fe91-4309-a093-8580f341eb89.png)
+
 ps：交易页面是通过微信支付宝个人转账。24小时内不能进行交易，要等到第二天才能转到Depay
 
 踩坑：不用新建一个apple id账号，新建账号重新登录回员账号可能会有同步icloud问题，系统问icloud的数据是否合并时，要选择合并。
@@ -25,6 +30,9 @@ ps：交易页面是通过微信支付宝个人转账。24小时内不能进行�
 前提： 科学上网、app store地址为美国
 
 Depay可以创建外国虚拟卡，可以支持数字货币的转入，通过将USDT转入Depay，再提现成美元到卡中，用这个卡才能完成chatGPT订阅付费。办理卡有四种选项，有不同的手续费或办理条件。我选的是标准版，有每月1美元的费用。
+
+
+![21fa72357a3274fb8645c3fbcfd7b2f](https://user-images.githubusercontent.com/38855722/229072253-88c3360c-2a0c-4bf3-81d8-68c141cfd9ac.jpg)
 
 - 在应用商店下载Depay，并创建一张虚拟卡
 
