@@ -32,7 +32,7 @@ ps：交易页面是通过微信支付宝个人转账。24小时内不能进行�
 Depay可以创建外国虚拟卡，可以支持数字货币的转入，通过将USDT转入Depay，再提现成美元到卡中，用这个卡才能完成chatGPT订阅付费。办理卡有四种选项，有不同的手续费或办理条件。我选的是标准版，有每月1美元的费用。
 
 
-![21fa72357a3274fb8645c3fbcfd7b2f](https://user-images.githubusercontent.com/38855722/229072253-88c3360c-2a0c-4bf3-81d8-68c141cfd9ac.jpg)
+
 
 - 在应用商店下载Depay，并创建一张虚拟卡
 
@@ -41,9 +41,12 @@ ps：有视频实名认证，手机、邮箱绑定，国内的就可以
 输入Depay账号的地址和频道，不能错，错了就充不上了。系统会一直提示你确认网络和地址的正确性。
 
  过几分钟后刷新钱包就能看到提现成功了， 收取了1个币的手续费。
- 
 
 - 下一步将USDT兑换成美元
+
+![21fa72357a3274fb8645c3fbcfd7b2f](https://user-images.githubusercontent.com/38855722/229072253-88c3360c-2a0c-4bf3-81d8-68c141cfd9ac.jpg)
+
+![image](https://user-images.githubusercontent.com/38855722/229075619-5cc7da6e-6f33-4ad2-8f10-f857ef191a67.png)
 
 ## 5.使用Depay订阅chatGPT plus
 
