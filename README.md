@@ -6,7 +6,7 @@
 
 ## 1.注册一个chatGPT账号
 网上有很多教程，这里放一个，大概步骤就是通过虚拟号平台接收短信验证码去注册。
-短信验证码发送 https://sms-activate.org（成本不到5元）
+短信验证码发送 https://sms-activate.org （成本不到5元）
 
 参考教程：https://www.awyerwu.com/9273.html
 ## 2.注册一个数字货币账户（OKX）
