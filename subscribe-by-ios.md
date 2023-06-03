@@ -2,7 +2,7 @@
 
 ## 前提
 - 拥有app store美区账户
-- 拥有Depay虚拟卡
+- 拥有Depay虚拟卡或其他国际虚拟卡或美区实体卡
 
 如果你已经按照 [购买chatGPT plus的历程](https://github.com/gclhaha/chatGPT-plus-guide/blob/master/README.md)进行了操作，那已经满足了上述条件。
 
