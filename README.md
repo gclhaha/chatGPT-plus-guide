@@ -1,4 +1,6 @@
 # 购买chatGPT plus的历程
+### date：2023-06-03 添加了使用IOS订阅plus的方法，以应对web端对Depay卡号的封禁
+[通过chatGPT IOS订阅plus](https://github.com/gclhaha/chatGPT-plus-guide/blob/master/subscribe-by-ios.md)
 ## 前提
 1. 需要科学上网工具，并且可以连接欧美节点
 2. 如果是iphone，需要apple id 设置为美国
