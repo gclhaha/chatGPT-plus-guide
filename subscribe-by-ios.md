@@ -35,7 +35,7 @@
 <img src="https://github.com/gclhaha/chatGPT-plus-guide/assets/38855722/bace0d4c-0faa-4665-a591-8718d0c9b07a" width="320px"></img>
 
 ## PS
-订阅后会直接扣费，去Depay查看发现扣了$21.19，通过一番查询，在ituns 看到了自己的app stroe地址，填的是肯塔基州，6%的税费，计算后确定这个和美区地址对应的税法有关，可以在ituns或者app store更换没有税的地址后再进行订阅
+订阅后会直接扣费，去Depay查看发现扣了$21.19，通过一番查询，在itunes 看到了自己的app stroe地址，填的是肯塔基州，6%的税费，计算后确定这个和美区地址对应的税法有关，可以在ituns或者app store更换没有税的地址后再进行订阅
 
 [美国税收查询](http://www.offshoreisle.com/artview-465-27.html)
 [美国地址生成](https://www.meiguodizhi.com/)
