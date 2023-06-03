@@ -8,7 +8,7 @@
 
 ## 文章背景
 
-本来通过[购买chatGPT plus的历程](https://github.com/gclhaha/chatGPT-plus-guide/blob/master/README.md)在网页上开通了plus，用了一个月后发现没扣我卡里的钱进行续订（可能是当时没有足够的余额），不过plus仍然可以使用，又用了一个月。就在又下一个月的续订日，订阅被取消了。即使有足够的余额，重新订阅回提示信用卡拒绝。
+本来通过[购买chatGPT plus的历程](https://github.com/gclhaha/chatGPT-plus-guide/blob/master/README.md)在网页上开通了plus，用了一个月后发现没扣我卡里的钱进行续订（可能是当时没有足够的余额），不过plus仍然可以使用，就继续用了一个月。就在又一个月后的续订日，订阅被取消了。即使有足够的余额，重新订阅回提示信用卡拒绝。
 
 后续一段时间chatGPT出了ios，网上很多通过礼品卡去进行订阅。不想那么折腾，所以就没想过用那种方式，因为使用礼品卡如果也拒绝，还要找苹果客服进行退款。
 
@@ -32,5 +32,10 @@
 
 点击确认，即可完成订阅
 
+<img src="https://github.com/gclhaha/chatGPT-plus-guide/assets/38855722/bace0d4c-0faa-4665-a591-8718d0c9b07a" width="320px"></img>
 
-Ps：订阅后会直接扣费，去Depay查看发现扣了21块多，猜测应该和美区地址对应的税法有关，可以更换地址后再进行订阅
+## PS
+订阅后会直接扣费，去Depay查看发现扣了$21.19，通过一番查询，在ituns 看到了自己的app stroe地址，填的是肯塔基州，6%的税费，计算后确定这个和美区地址对应的税法有关，可以在ituns或者app store更换没有税的地址后再进行订阅
+
+[美国税收查询](http://www.offshoreisle.com/artview-465-27.html)
+[美国地址生成](https://www.meiguodizhi.com/)
